@@ -2,7 +2,7 @@
 <details>
 <summary> Experiment 3.1: Original code </summary>
 
-  ![image](https://github.com/bangjai123/AdvProg10-YewChat/assets/120235144/e8a87193-0f54-4de4-a4c5-d0476f62e189)
+![image](https://github.com/bangjai123/AdvProg10-YewChat/assets/120235144/4f6ab6db-5187-49d9-9f94-e8d67120ece5)
 
 </details>
 
